@@ -1,2 +1,2 @@
 # MultiCriteria
-This is not the full project due to a part of an agreement
+This is a piece of code from my project, multi-criteria decision making algorithm.
